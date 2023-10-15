@@ -21,9 +21,7 @@ const Hero = (props) => (
           to help you out with your next big web development and UI/UX Design
           for mobile and web.
         </SectionText>
-        <Button onClick={() => (window.location = 'arfinhasib@gmail.com')}>
-          Hire Me
-        </Button>
+        <Button onClick={() => (window.location = '#about')}>Hire Me</Button>
       </LeftSection>
     </Section>
   </>
