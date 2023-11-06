@@ -9,7 +9,10 @@ export const Layout = ({ children }) => {
    return (
       <>
          <Head>
-            <title>Arfin Hasib | Frontend Developer & UI/UX Desginer</title>
+            <title>
+               Arfin Hasib | Frontend Developer & UI/UX Desginer | Webflow
+               Expert
+            </title>
          </Head>
          <Container>
             <Header />
