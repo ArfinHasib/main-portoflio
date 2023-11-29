@@ -13,8 +13,8 @@ const Hero = (props) => (
       <Section row nopadding>
          <LeftSection>
             <SectionTitle main center>
-               Welcome To <br />
-               My Portfolio
+               FrontEnd Developer <br />
+               UI/UX Designer
             </SectionTitle>
             <SectionText>
                Hello! I'm Arfin Hasib. A frontend Developer and UI/UX Designer.
