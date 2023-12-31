@@ -13,11 +13,13 @@ const Hero = (props) => (
       <Section row nopadding>
          <LeftSection>
             <SectionTitle main center>
-               Transform Your Vision <br /> into a Captivating Online Experience
+               Empower Your Digital <br /> Journey with Expert <br /> Web
+               Services
             </SectionTitle>
             <SectionText>
-               Expert web design and development that empowers your brand and
-               engages your audience.
+               From concept to execution, my comprehensive web design and
+               development services ensure you stay ahead in the digital
+               landscape.
             </SectionText>
             <Button onClick={() => (window.location = '#about')}>
                Learn More
