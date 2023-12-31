@@ -13,13 +13,11 @@ const Hero = (props) => (
       <Section row nopadding>
          <LeftSection>
             <SectionTitle main center>
-               FrontEnd Developer <br />
-               UI/UX Designer
+               Transform Your Vision <br /> into a Captivating Online Experience
             </SectionTitle>
             <SectionText>
-               Hello! I'm Arfin Hasib. A frontend Developer and UI/UX Designer.
-               Ready to help you out with your next big web development and
-               UI/UX Design project for mobile and web.
+               Expert web design and development that empowers your brand and
+               engages your audience.
             </SectionText>
             <Button onClick={() => (window.location = '#about')}>
                Learn More
