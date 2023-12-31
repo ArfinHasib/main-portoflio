@@ -11,7 +11,7 @@ export const Layout = ({ children }) => {
          <Head>
             <title>
                Arfin Hasib | Frontend Developer & UI/UX Desginer | Webflow
-               Expert
+               Expert & Veteran
             </title>
          </Head>
          <Container>
