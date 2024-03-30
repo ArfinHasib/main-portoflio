@@ -6,7 +6,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['React', 'Tailwind', 'Vite'],
       source: 'https://github.com/ArfinHasib/BrainWave-AI',
-      visit: 'https://github.com/ArfinHasib/BrainWave-AI',
+      visit: 'https://brain-wave-ai-website.vercel.app/',
       id: 0,
    },
    {
