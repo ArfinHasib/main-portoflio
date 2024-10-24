@@ -34,10 +34,10 @@ const Projects = () => (
               <HeaderThree title>{p.title}</HeaderThree>
               <Hr />
             </TitleContent>
-            <CardInfo className='card-info'>{p.description}</CardInfo>
+            <CardInfo className={CardInfo}>{p.description}</CardInfo>
             <div>
               <br />
-              <TitleContent>Stack</TitleContent>
+              <TitleContent>Tech Stack</TitleContent>
               <TagList>
                 {p.tags.map((t, i) => {
                   return <Tag key={i}>{t}</Tag>;

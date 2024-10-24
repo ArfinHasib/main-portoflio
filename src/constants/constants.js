@@ -1,30 +1,30 @@
 export const projects = [
    {
-      title: 'AI Website Landing Page',
+      title: 'Viral Profit',
       description:
-         'Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard',
-      image: '/images/1.png',
-      tags: ['React', 'Tailwind', 'Vite'],
-      source: 'https://github.com/ArfinHasib/BrainWave-AI',
-      visit: 'https://brain-wave-ai-website.vercel.app/',
+         'Develop the FrontEnd with React, Chakra UI, Tailwind, etc and Along with 7 other Developers Develop systems for quizzes, checkout processes, viewing online course videos, and booking calendars, working with the Slack API.',
+      image: '/images/5.png',
+      tags: ['React.js', 'Node.js', 'PostgreSQL', 'Render.com'],
+      source: 'https://www.viralprofit.yt/',
+      visit: 'https://www.viralprofit.yt/',
       id: 0,
    },
    {
-      title: 'Magic Match Game',
+      title: 'Matching Game',
       description:
          'A Simple game which takes 2 similar photos and matches them. A classic game which we all used to play. And it was quite fun to play for me. Used Advanced React concepts and fucntions to build the full game.',
       image: '/images/2.png',
-      tags: ['React', 'JavaScript', 'JSX'],
+      tags: ['React', 'JavaScript', 'Tailwind', "Vite"],
       source: 'https://github.com/ArfinHasib/Magic-Match',
       visit: 'https://magicandmatch.netlify.app/',
       id: 1,
    },
    {
-      title: 'MyMoney Expense Tracker',
+      title: 'Expense Tracker',
       description:
          'I built a simple and minimal expense tracker app using React, JSX, React hooks, Router & Firebase as a backend where you can store email and password and login again. Just use the sign up to create a new user and then add expenses list. ',
       image: '/images/3.png',
-      tags: ['React', 'React Router', 'Firebase'],
+      tags: ['React', 'React Router', 'Firebase', "TypeScript"],
       source: 'https://github.com/ArfinHasib/CineMate-React',
       visit: 'https://money-expense-trackerr.netlify.app/',
       id: 2,
