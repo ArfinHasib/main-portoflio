@@ -31,7 +31,7 @@ const Technologies = () => (
                <ListTitle>Front-End</ListTitle>
                <ListParagraph>
                   Experiece with <br />
-                  TypeScript, React.js and Next Js
+                  Latest Front-End Techs as well as TypeScript, React.js and Next Js
                </ListParagraph>
             </ListContainer>
          </ListItem>
@@ -40,10 +40,10 @@ const Technologies = () => (
                <DiFirebase size='3rem' />
             </picture>
             <ListContainer>
-               <ListTitle>CMS Builders</ListTitle>
+               <ListTitle>Back-End</ListTitle>
                <ListParagraph>
                   Experience with <br />
-                  Webflow and Wordpress
+                  Managing and maintaingin servers, NodeJS, SQL, MySQL and MongoDB
                </ListParagraph>
             </ListContainer>
          </ListItem>
