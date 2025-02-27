@@ -1,6 +1,6 @@
 export const projects = [
 	{
-		title: "Viral Profit",
+		title: "Viral Profits",
 		description:
 			"Develop the FrontEnd with React, Chakra UI, Tailwind, etc and Along with 7 other Developers Develop systems for quizzes, checkout processes, viewing online course videos, and booking calendars, working with the Slack API.",
 		image: "/images/5.jpg",
