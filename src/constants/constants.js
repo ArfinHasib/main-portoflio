@@ -2,7 +2,7 @@ export const projects = [
 	{
 		title: "Viral Profits",
 		description:
-			"Develop the FrontEnd with React, Chakra UI, Tailwind, etc and Along with 7 other Developers Develop systems for quizzes, checkout processes, viewing online course videos, and booking calendars, working with the Slack API.",
+			"Developed the front with React, Chakra UI, Tailwind, etc. Along with seven other Developers, Develop systems for quizzes, checkout processes, viewing online course videos, and booking calendars, working with the Slack API.",
 		image: "/images/5.jpg",
 		tags: ["React.js", "Node.js", "PostgreSQL", "Render.com"],
 		source: "https://www.viralprofits.yt/",
@@ -12,7 +12,7 @@ export const projects = [
 	{
 		title: "Matching Game",
 		description:
-			"A Simple game which takes 2 similar photos and matches them. A classic game which we all used to play. And it was quite fun to play for me. Used Advanced React concepts and fucntions to build the full game.",
+			"This is a simple game that takes two similar photos and matches them. It's a classic game that we all used to play, and it was quite fun to play for me. I used Advanced React concepts and functions to build the full game.",
 		image: "/images/2.png",
 		tags: ["React", "JavaScript", "Tailwind", "Vite"],
 		source: "https://github.com/ArfinHasib/Magic-Match",
@@ -22,7 +22,7 @@ export const projects = [
 	{
 		title: "Expense Tracker",
 		description:
-			"I built a simple and minimal expense tracker app using React, JSX, React hooks, Router & Firebase as a backend where you can store email and password and login again. Just use the sign up to create a new user and then add expenses list. ",
+			"Built a simple and minimal expense tracker app using React, JSX, React hooks, Router & Firebase as a backend where you can store email and password and log in again. Just use the sign-up to create a new user and then add an expenses list.",
 		image: "/images/3.png",
 		tags: ["React", "React Router", "Firebase", "TypeScript"],
 		source: "https://github.com/ArfinHasib/CineMate-React",
@@ -32,7 +32,7 @@ export const projects = [
 	{
 		title: "GameHub",
 		description:
-			"This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+			"This is a code repository for the corresponding video tutorial. In this video, we will create a complete Realtime Chat Application.",
 		image: "/images/4.png",
 		tags: ["NextJS", "Typescript", "React Query", "Zod"],
 		source: "https://github.com/ArfinHasib/game-hub-2.0",
