@@ -58,10 +58,8 @@ const Timeline = () => {
       <Section id='about'>
          <SectionTitle>About Me</SectionTitle>
          <SectionText>
-            Hi, I’m Arfin Hasib, a frontend developer and UI/UX designer with expertise in HTML, CSS, JavaScript, React,
-            and Next.js. <br /> <br /> I have a passion for creating intuitive user experiences and a keen eye for
-            design. Whether I’m building a responsive website or designing a user-friendly interface, I’m dedicated to
-            delivering high-quality work that exceeds expectations.
+            Hi, I’m Arfin Hasib, a front-end and back-end developer with expertise in HTML, CSS, JavaScript, React, Next.js, and backend technologies. I have a passion for creating intuitive user experiences and delivering high-quality, scalable solutions. Whether building responsive websites or crafting seamless back-end systems, I’m dedicated to exceeding expectations with every project.
+
          </SectionText>
          <br />
          <br />

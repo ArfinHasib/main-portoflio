@@ -43,7 +43,7 @@ const Technologies = () => (
                <ListTitle>Back-End</ListTitle>
                <ListParagraph>
                   Experience with <br />
-                  Managing and maintaingin servers, NodeJS, SQL, MySQL and MongoDB
+                  Lates Back-End Techs as well as Managing and maintaingin servers, NodeJS, SQL, MySQL and MongoDB
                </ListParagraph>
             </ListContainer>
          </ListItem>
@@ -54,7 +54,7 @@ const Technologies = () => (
             <ListContainer>
                <ListTitle>UI/UX</ListTitle>
                <ListParagraph>
-                  Experience with UI Design principals <br />& tools like Figma,
+                  Experience with UI Design principals <br />& tools like Figma, Framer,
                   Adobe XD & Sketch
                </ListParagraph>
             </ListContainer>
